@@ -1,0 +1,377 @@
+label	replace by
+(i	
+0	
+3-way decisions	3-way decision
+three-way decision	3-way decision
+three-way decisions	3-way decision
+2 universes	
+2-tuple	
+area	
+assessments	
+accuracy function	
+adaptation models	
+adoption	
+antecedents	
+aggregates	
+aggregation	
+aggregation functions	
+aggregation operator	
+aggregation operators	
+aggregation function	
+admissible order	
+approximation operators	approximation
+algorithms	
+algorithm	
+allocation	
+algebra	
+algebras	
+alternatives	
+alternative	
+alpha-cuts	alpha-cut
+attribute decision-making	
+analytic hierarchy process	ahp
+analytic hierarchy process (ahp)	ahp
+analytic network process	anp
+attributes	
+appraisal	
+approximations	approximation
+behavior	
+belief functions	belief function
+best-worst	best-worst method
+bipolar fuzzy sets	bipolar fuzzy set
+bibliometric analysis	bibliometrics
+business	
+bonferroni mean operator	bonferroni mean
+bonferroni mean operators	bonferroni mean
+bonferroni means	bonferroni mean
+bonferroni operators	bonferroni mean
+calculus	
+c-means	c-means algorithm
+challenges	
+china	
+choice	
+chain	
+classifier	
+choquet integral	
+classification algorithms	classification
+classifiers	
+clustering algorithm	clustering
+clustering algorithms	clustering
+clustering-algorithm	clustering
+color	
+combination	
+companies	
+complex fuzzy sets	complex fuzzy set
+complex q-rung orthopair fuzzy sets	complex q-rung orthopair fuzzy set
+complexity	complexity theory
+computer science	
+computational method	
+computational modeling	
+comprehensive evaluation	
+computing with words (cww)	computing with words
+concept lattices	concept lattice
+consensus	
+control design	
+control systems	
+control system	
+convergence	
+correlation	
+correlation-coefficient	correlation coefficient
+correlation-coefficients	correlation coefficient
+controllers	controller
+cost	
+context	
+criteria	
+criteria decision-making	
+data models	
+data model	
+constraints	
+decision	
+decisions	
+decision analysis	
+decision-making	decision making
+decision-making method	decision making
+decision-making approach	decision making
+decision-making methods	decision making
+decision-making model	decision making
+decision-making problems	decision making
+decision support systems	decision support system
+decision-theoretic rough sets	decision-theoretic rough set
+definition	
+demand	
+dematel method	dematel
+differential-equations	
+differential evolution	
+distance measures	distance measure
+distances	
+distance	
+divergence	
+diagnostic-analysis	diagnosis
+design	
+dual hesitant fuzzy sets	dual hesitant fuzzy set
+dominance	
+economics	
+enhancement	
+edas method	edas
+efficiency	
+equations	
+enrollments	
+enrollment	
+edge-detection	edge detection
+entropy	
+entropy measures	entropy measure
+environment	
+evaluate	
+evaluation	
+evolution	
+evidential reasoning approach	evidence theory
+evidential reasoning	evidence theory
+existence	
+expert-system	expert system
+expert systems	expert system
+evolutionary algorithms	evolutionary algorithm
+extension	
+extensions	
+filter	
+filters	
+failure mode and effect analysis	fmea
+failure mode and effects analysis	fmea
+fault-diagnosis	fault diagnosis
+feature-extraction	feature extraction
+fault-tree analysis	fault tree analysis
+fcm	
+fuzzy logic systems	fuzzy logic system
+fuzzy inference systems	fuzzy inference system
+feature-selection	feature selection
+fermatean fuzzy sets	fermatean fuzzy set
+fuzzy-set qualitative comparative analysis (fsqca)	fsqca
+fuzzy-set qualitative comparative analysis	fsqca
+fundamental properties	
+fuzzy cognitive maps	fuzzy cognitive map
+fuzzy measure	
+fuzzy numbers	fuzzy number
+fuzzy neural networks	fuzzy neural network
+fuzzy relation	
+fuzzy relations	
+fuzzy rules	
+fuzzy rule	
+fuzzy rough sets	fuzzy rough set
+fuzzy set	fuzzy set theory
+fuzzy sets	fuzzy set theory
+fuzzy systems	fuzzy system
+fuzzy-sets	fuzzy set theory
+fuzzy soft sets	fuzzy soft set
+fuzzy sets theory	fuzzy set theory
+fuzzy-set	fuzzy set theory
+fuzzy-set theory	fuzzy set theory
+fusion	
+framework	
+frameworks	
+generation	
+genetic algorithms	genetic algorithm
+group decision-making	group decision making
+granulation	
+granular computing (grc)	granular computing
+games game theory	
+hesitant fuzzy sets	hesitant fuzzy set
+hesitant fuzzy-sets	hesitant fuzzy set
+hesitant fuzzy sets (hfss)	hesitant fuzzy set
+hesitant fuzzy set (hfs)	hesitant fuzzy set
+group decision making (gdm)	group decision making
+images	image
+hybrid	
+heuristic algorithms	heuristic algorithm
+health-care	health
+hierarchy	
+ideals	
+impact	
+impacts	
+implementation	
+index	
+indexes	
+industries	
+industry	
+inference	
+information-technology	
+information	
+innovation	
+innovations	
+integration	
+information-systems	information system
+information systems	information system
+inference systems	inference system
+interval	
+interval type-2	interval type-2 fuzzy set
+interval type-2 fuzzy sets	interval type-2 fuzzy set
+interval-valued fuzzy sets	interval-valued fuzzy set
+interval-valued intuitionistic fuzzy sets	interval-valued intuitionistic fuzzy set
+intervals	
+intuitionistic fuzzy	intuitionistic fuzzy set
+intuitionistic fuzzy sets	intuitionistic fuzzy set
+intuitionistic fuzzy sets (ifss)	intuitionistic fuzzy set
+intuitionistic fuzzy-sets	intuitionistic fuzzy set
+intuitionistic fuzzy set (ifs)	intuitionistic fuzzy set
+interval-valued pythagorean fuzzy sets	interval-valued pythagorean fuzzy set
+ifss	intuitionistic fuzzy set
+intuitionistic fuzzy numbers	intuitionistic fuzzy number
+interval-valued hesitant fuzzy sets	interval-valued hesitant fuzzy set
+interval type-2 fuzzy sets (it2fss)	interval type-2 fuzzy set
+interval type 2 fuzzy sets	interval type 2 fuzzy set
+investment	
+knowledge	
+knowledge measure	
+licenses	
+linguistics	
+linguistic variables	linguistic variable
+location	
+locations	
+logic	
+logic systems	
+mabac method	mabac
+machine	
+mathematical model	
+mathematical models	
+mcdm approach	mcdm
+mean operators	
+membership	
+membership grades	membership grade
+membership functions	membership function
+methodology	
+models	
+model	
+multi criteria decision making	mcdm
+multi-attribute decision making	madm
+multi-attribute decision-making	madm
+multi-attribute group decision making	magdm
+multi-attribute group decision-making	magdm
+multi-criteria decision making	mcdm
+multi-criteria decision-making	mcdm
+multiattribute decision-making	madm
+multicriteria	
+multicriteria decision making	mcdm
+multicriteria decision-making	mcdm
+multiple attribute decision making	madm
+multiple attribute group decision making (magdm)	magdm
+multiple attribute group decision making	magdm
+multiple criteria decision making	mcdm
+multiple criteria decision making (mcdm)	mcdm
+multiple criteria decision analysis	mcda
+multiple attribute group decision-making	magdm
+multiple attribute decision-making	madm
+multiple attribute decision making (madm)	madm
+multi-attribute decision making (madm)	madm
+multi-criteria	
+multi-criteria decision making (mcdm)	mcdm
+multi-criteria decision-making (mcdm)	mcdm
+multi-criteria group decision making	mcgdm
+multi-criteria group decision-making	mcgdm
+multiple criteria	
+network	
+networks	
+neural networks	neural network
+neural-network	neural network
+neural-networks	neural network
+neutrosophic sets	neutrosophic set
+negation	
+norms	
+norm	
+number	
+numbers	
+numerical models	
+numerical model	
+operational laws	
+operations	
+operators	
+optimal design	
+order	
+orders	
+order allocation	
+owa operators	owa operator
+particle swarm optimization (pso)	particle swarm optimization
+perspective	
+picture fuzzy sets	picture fuzzy set
+principle of justifiable granule	
+principle of justifiable granularity	
+principle	
+power aggregation operators	
+preference relations	
+probabilistic logic	
+probabilities	
+probability	
+programming approach	
+project	
+projects	
+prospect-theory	prospect theory
+pythagorean fuzzy sets	pythagorean fuzzy set
+pso	particle swarm optimization
+q-rung orthopair fuzzy sets	q-rung orthopair fuzzy set
+qfd	quality function deployment
+ranking method	
+renewable energy sources	renewable energy
+representation	
+representation model	
+recommender systems	recommender system
+risk	
+risk analysis	risk management
+risk assessment	risk management
+risk-assessment	risk management
+rough set theory	rough set
+rough sets	rough set
+rule	
+rules	
+search	
+semantics	
+set	
+sets	
+set-theory	
+shadowed sets	shadowed set
+shape	
+similarity measures	similarity measure
+similarity	
+soft sets	soft set
+soft set-theory	soft set
+software	
+social networks	social network
+spaces	
+space	
+spherical fuzzy sets	spherical fuzzy set
+stability	
+stabilization	
+standards	
+strategies	
+strategy	
+supply chain management	supply chain
+support	
+support vector machines	support vector machine
+support-system	
+synchronization	
+system	
+systems	
+state	
+states	
+technologies	
+technology	
+term sets	
+time	
+time-series	
+t-spherical fuzzy sets	t-spherical fuzzy set
+t-norms	t-norm
+todim method	todim
+tools	
+tool	
+topology	
+topsis method	topsis
+trust	
+type-2	
+type-2 fuzzy sets	type-2 fuzzy set
+type-2 fuzzy-sets	type-2 fuzzy set
+uncertainty measures	uncertainty
+values	
+value	
+view	
+vikor method	vikor
+weight measurement	
+weights	
+weight	
+words	
+word	
